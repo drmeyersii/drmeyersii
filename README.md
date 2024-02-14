@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**drmeyersii/drmeyersii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭 I’m currently working on certifications in SQl, Python, and Tableau.
+ 
+ 🌱 I’m currently learning how to code games through Python and utilize regressions and classifications to optimize.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 👯 I’m looking to collaborate on new ways to bring a new experience to gaming with machine learning.
+ 
+ 🤔 I’m looking for help with refining my code language usage.
+ 
+ 💬 Ask me about current game genres and the types of successes the industry has had.
+ 
+ ⚡ Fun fact: The simplest things are the most enjoyable.
